@@ -26,6 +26,7 @@ This commands includes
 • Other IP Commands e.g. show ip route etc.
 <BR>
 ##program:
+
 client.py
 ~~~
 
@@ -42,7 +43,9 @@ while True:
 
 s.close()
 ~~~
+
 ## Output
+
 <img width="1053" height="270" alt="image" src="https://github.com/user-attachments/assets/ff014dd7-a23a-4c71-9efe-0427c1ee98aa" />
 
 
